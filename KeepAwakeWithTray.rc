@@ -1,0 +1,5 @@
+// KeepAwakeWithTray.rc
+#include "resource.h"
+
+// 将本地同目录下的 KeepAwake.ico 关联到 IDI_TRAYICON
+IDI_TRAYICON ICON "KeepAwake.ico"
